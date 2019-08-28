@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-boilerplate-project",
+  "version": "1.0.0",
+  "description": "Nextjs Boilerplate Application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmsesay/nextjs-boilerplate-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmsesay/nextjs-boilerplate-project/issues"
+  },
+  "homepage": "https://github.com/mmsesay/nextjs-boilerplate-project#readme",
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
